@@ -1,4 +1,4 @@
-# Conferences That Pay
+# Conferences That Pay Speakers
 
 This list is a guide to technical and software conferences and what they pay or reimburse speakers for. This guide is
 primarily aimed at traditional talks or workshop presenters (not keynotes but maybe in a future version). The goal is 
@@ -23,18 +23,23 @@ Please feel free to contribute to this list by adding additional conferences, ad
 
 **Legend:**
 
-* 🎫🎫🎫 - Pays for the full thing
-* 🎫🎫 - Pays for the main event only (ex: no extra workshops)
-* 🎫 - Pays for only the portion you speak at (ex: 1 out of 3 days)
-* ❌ - Does not pay for this
+* 🎫🎫🎫/🏨🏨🏨 - Pays for the full thing
+* 🎫🎫/🏨🏨 - Pays for the main event only (ex: no extra workshops)
+* 🎫/🏨 - Pays for only the portion you speak at (ex: 1 out of 3 days)
+* ✈✈✈ - Arranges flight for you and covers cost
+* ✈✈ - Covers full cost
+* ✈ - Covers partial cost or full cost with major stipulations
 * 💵💵💵 - Fully reimburses for this
 * 💵💵 - Partially reimburses (for only certain items, ex: only one airline or hotel)
 * 💵 - Partially reimburses (up to some limit, ex: up to $250)
-* 💲 - Pays an honorarium (amount may vary)
+* 💲💲💲 - Pays an honorarium, no matter what country you're from
+* 💲💲 - Pays an honorarium but it's expected to cover costs of other items too
+* 💲 - Pays only if you're a citizen of the country you're speaking at
+* ❌ - Does not pay or reimburse
 
-Event/Company/Website                                    | Ticket | Workshop | Lodging | Travel | Honorarium
----------------------------------------------------------|--------|----------|---------|--------|-----------
-[!!Con](https://bangbangcon.com)                         | 🎫🎫🎫  | N/A      | 💵💵💵   | 💵💵💵  | 💲 $256 (any country)
-[Abstractions](https://abstractions.io)                  | 🎫🎫🎫  | N/A      | 💵      | 💵      | 💲
-[Heartifacts](https://heartifacts.codeandsupply.co/)     | 🎫🎫🎫  | N/A      | 💵      | 💵      | 💲
-[Strange Loop](https://thestrangeloop.com)               | 🎫🎫🎫  | 🎫       | 💵💵💵   | 💵💵💵  | ❌
+Event/Company/Website                                    | Ticket | Workshop | Lodging | Travel | Honorarium | Comments
+---------------------------------------------------------|--------|----------|---------|--------|------------|---------
+[!!Con](https://bangbangcon.com)                         | 🎫🎫🎫  | N/A      | 🏨🏨🏨   | ✈✈    | 💲💲💲       | USD $256
+[Abstractions](https://abstractions.io)                  | 🎫🎫🎫  | N/A      | 🏨      | ✈      | 💲💲        |
+[Heartifacts](https://heartifacts.codeandsupply.co/)     | 🎫🎫🎫  | N/A      | 🏨      | ✈      | 💲💲        |
+[Strange Loop](https://thestrangeloop.com)               | 🎫🎫🎫  | 🎫       | 🏨🏨🏨   | ✈✈✈   | ❌         |

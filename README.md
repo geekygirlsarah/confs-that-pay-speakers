@@ -26,7 +26,7 @@ Please feel free to contribute to this list by adding additional conferences, ad
 * 🎫🎫🎫/🏨🏨🏨 - Pays for the full thing
 * 🎫🎫/🏨🏨 - Pays for the main event only (ex: no extra workshops)
 * 🎫/🏨 - Pays for only the portion you speak at (ex: 1 out of 3 days)
-* ✈✈✈ - Arranges flight for you and covers cost
+* ✈✈✈ - Arranges travel for you and covers cost
 * ✈✈ - Covers full cost
 * ✈ - Covers partial cost or full cost with major stipulations
 * 💵💵💵 - Fully reimburses for this
@@ -39,7 +39,14 @@ Please feel free to contribute to this list by adding additional conferences, ad
 
 Event/Company/Website                                    | Ticket | Workshop | Lodging | Travel | Honorarium | Comments
 ---------------------------------------------------------|--------|----------|---------|--------|------------|---------
-[!!Con](https://bangbangcon.com)                         | 🎫🎫🎫  | N/A      | 🏨🏨🏨   | ✈✈    | 💲💲💲       | USD $256
-[Abstractions](https://abstractions.io)                  | 🎫🎫🎫  | N/A      | 🏨      | ✈      | 💲💲        |
-[Heartifacts](https://heartifacts.codeandsupply.co/)     | 🎫🎫🎫  | N/A      | 🏨      | ✈      | 💲💲        |
-[Strange Loop](https://thestrangeloop.com)               | 🎫🎫🎫  | 🎫       | 🏨🏨🏨   | ✈✈✈   | ❌         |
+[!!Con](https://bangbangcon.com)                         | 🎫🎫🎫 | N/A | 🏨🏨🏨 | ✈✈ | 💲💲💲 | USD $256
+[Abstractions](https://abstractions.io)                  | 🎫🎫🎫 | N/A | 🏨 | ✈ | 💲💲 |
+[CodeMash](https://codemash.org)                         | 🎫🎫🎫 | 🎫 | 🏨🏨🏨 | ❌ | ❌ | Limited travel grants ($500) by application
+[DevSpace](https://www.devspaceconf.com)                 | 🎫🎫🎫 | N/A | ❌ | ❌ | ❌ | Funds available for speakers depending on year's income
+[Heartifacts](https://heartifacts.codeandsupply.co/)     | 🎫🎫🎫 | N/A | 🏨 | ✈ | 💲💲 |
+[Kansas City Developer Conference](https://kcdc.info)    | 🎫🎫🎫 | 🎫 | 🏨🏨 | ❌ | ❌ |
+[NDC Conferences (All)](https://ndcconferences.com/)     | 🎫🎫🎫 | 🎫 | 🏨🏨🏨 | ✈✈✈ | ❌ |
+[PyCon US](https://us.pycon.org)                         | 🎫🎫🎫 | 🎫 | ❌ | ❌ | ❌ | They have speaker grants available to cover up to all costs
+[Self.Conference](http://selfconference.org)             | 🎫🎫🎫 | N/A | 🏨🏨🏨 | ❌ | ❌ | Non-profit, low ticket cost, but can't offer much or any travel
+[Strange Loop](https://thestrangeloop.com)               | 🎫🎫🎫 | 🎫 | 🏨🏨🏨 | ✈✈✈ | ❌ |
+[THAT Conference](https://thatconference.com)            | 🎫🎫🎫 | 🎫 | 🏨🏨 | ❌ | ❌ |
